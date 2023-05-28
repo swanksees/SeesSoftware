@@ -1,0 +1,32 @@
+body {
+font-family: 'Roboto', sans-serif;
+background-color: peachpuff;
+}
+
+
+h2 {
+background-color: royalblue;
+border: 3px groove black;
+padding: 5px;
+color: peachpuff
+
+}
+
+
+table {
+background-color:peachpuff;
+border: 5px dotted black;
+margin: 0 auto; 
+padding: 5px;
+}
+
+
+h1 {
+background-color: royalblue;
+border: 5px solid black;
+padding: 10px; 
+text-align: center; 
+font-size: 2em; 
+margin-top: 0; 
+color: peachpuff;
+}
